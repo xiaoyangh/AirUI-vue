@@ -1,0 +1,22 @@
+{
+  "name": "airui-vue",
+  "version": "0.0.1",
+  "description": "airui about flight and plane buiness ,base on vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenshaomou/AirUI-vue.git"
+  },
+  "keywords": [
+    "airui"
+  ],
+  "author": "chenshaomou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenshaomou/AirUI-vue/issues"
+  },
+  "homepage": "https://github.com/chenshaomou/AirUI-vue#readme"
+}
